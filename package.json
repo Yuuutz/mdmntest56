@@ -81,6 +81,6 @@
     "zalgolize": "^1.2.4"
   },
   "scripts": {
-    "start": "node bot.js"
+    "start": "node index.js"
   }
 }
